@@ -1,4 +1,4 @@
-# Ducc's Fidget Toy
+# Ido's macro-keyboard
 here is the final results - iv'e done 1to1 as in the tutorial to keep it simple and easy.
 ![Duccpad_2025-Jan-29_11-21-00PM-000_CustomizedView41037845089](https://github.com/user-attachments/assets/21300858-fc34-466f-8b79-2abc2fd9e564)  
 
